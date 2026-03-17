@@ -3,13 +3,13 @@
 import { motion } from "framer-motion";
 import { CONTENT } from "@/data/content";
 import { cn } from "@/lib/utils";
-import { Sword, Scale, Bug, ArrowRight } from "lucide-react";
+import { ArrowRight, Sword, Scale, Bug } from "lucide-react";
 
 const icons: Record<string, any> = {
-  red: ArrowRight, // Using Arrow as a substitute for bow/direction
+  white: ArrowRight, // Using Arrow as a substitute for bow/direction
+  red: Sword,
   black: Scale,
-  ashen: Bug,
-  white: Sword,
+  ashen: Bug
 };
 
 export function Horsemen() {
