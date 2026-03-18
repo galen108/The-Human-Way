@@ -6,9 +6,7 @@ export const CONTENT = {
         thesis: "This unified timeline maps the Historicist interpretation of the Four Horsemen onto the two physical Temple destructions. It functions as a roadmap for an Internal Third Temple thesis: that the external \"House of God\" was removed to force a shift into the human heart, and Jesus (in His Second Coming) returns only when humanity ceases to sin in His name.",
         pregame: "The Pre-Game: The First Destruction (586 BC)",
         event: "The Event: The Babylonian destruction of Solomon’s Temple.",
-        meaning: "Internal Meaning: The end of God dwelling in a national stone building. It forced the first internalization of faith during the Exile.",
         clearing: "The Four Horsemen (The \"Clearing\" of the Second Temple)",
-        forces: "In this phase, the horsemen represent the historical forces that dismantled the Second Temple (70 AD) and the subsequent \"Sins of Empire\" that prevent the Third Temple from being built today."
     },
     horsemen: [
     {

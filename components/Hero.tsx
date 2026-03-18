@@ -66,14 +66,6 @@ export function Hero() {
               {CONTENT.hero.event}
           </motion.h2>
           <motion.p
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ duration: 1, delay: 0.5 }}
-              className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto leading-relaxed"
-          >
-              {CONTENT.hero.meaning}
-          </motion.p>
-          <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
@@ -81,14 +73,6 @@ export function Hero() {
           >
               {CONTENT.hero.clearing}
           </motion.p>
-          <motion.h2
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ duration: 1, delay: 0.5 }}
-              className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto leading-relaxed"
-          >
-              {CONTENT.hero.forces}
-          </motion.h2>
       </motion.div>
 
       <motion.div 
