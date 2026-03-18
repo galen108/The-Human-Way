@@ -3,16 +3,12 @@ export const CONTENT = {
         title: "The Third Temple",
         subtitle: "and the Human Way",
         description: "In a world marked by endless conflict, political division, and social injustice, the question of the Temple in Jerusalem may seem purely historical or symbolic. Yet the turmoil surrounding human society can be read as a modern echo of the ancient prophetic warnings.",
-        thesis: "This unified timeline maps the Historicist interpretation of the Four Horsemen onto the two physical Temple destructions. It functions as a roadmap for an Internal Third Temple thesis: that the external \"House of God\" was removed to force a shift into the human heart, and Jesus (in His Second Coming) returns only when humanity ceases to sin in His name."
-    },
-    pregame: {
-        title: "The Pre-Game: The First Destruction (586 BC)]",
-        subtitle: "The Event: The Babylonian destruction of Solomon’s Temple.",
-        meaning: "Internal Meaning: The end of God dwelling in a national stone building. It forced the first internalization of faith during the Exile."
-    },
-    phaseOne: {
-        title: "The Four Horsemen (The \"Clearing\" of the Second Temple)",
-        subtitle: "In this phase, the horsemen represent the historical forces that dismantled the Second Temple (70 AD) and the subsequent \"Sins of Empire\" that prevent the Third Temple from being built today."
+        thesis: "This unified timeline maps the Historicist interpretation of the Four Horsemen onto the two physical Temple destructions. It functions as a roadmap for an Internal Third Temple thesis: that the external \"House of God\" was removed to force a shift into the human heart, and Jesus (in His Second Coming) returns only when humanity ceases to sin in His name.",
+        pregame: "The Pre-Game: The First Destruction (586 BC)",
+        event: "The Event: The Babylonian destruction of Solomon’s Temple.",
+        meaning: "Internal Meaning: The end of God dwelling in a national stone building. It forced the first internalization of faith during the Exile.",
+        phaseOne: "The Four Horsemen (The \"Clearing\" of the Second Temple)",
+        forces: "In this phase, the horsemen represent the historical forces that dismantled the Second Temple (70 AD) and the subsequent \"Sins of Empire\" that prevent the Third Temple from being built today."
     },
     horsemen: [
     {
