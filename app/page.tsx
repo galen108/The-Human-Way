@@ -1,4 +1,6 @@
 import { Hero } from "@/components/Hero";
+import { Pregame } from "@/components/Pregame";
+import { PhaseOne } from "@/components/PhaseOne";
 import { Horsemen } from "@/components/Horsemen";
 import { Narrative } from "@/components/Narrative";
 import { Footer } from "@/components/Footer";
@@ -14,10 +16,12 @@ export default function Home() {
       </div>
 
       <div className="relative z-10">
-        <Hero />
-        <Horsemen />
-        <Narrative />
-        <Footer />
+          <Hero />
+          <Pregame />
+          <PhaseOne />
+          <Horsemen />
+          <Narrative />
+          <Footer />
       </div>
     </main>
   );

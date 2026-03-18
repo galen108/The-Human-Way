@@ -4,7 +4,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { CONTENT } from "@/data/content";
 import { ChevronDown } from "lucide-react";
 
-export function phaseOne() {
+export function PhaseOne() {
     const { scrollY } = useScroll();
     const y1 = useTransform(scrollY, [0, 500], [0, 200]);
     const opacity = useTransform(scrollY, [0, 300], [1, 0]);
@@ -32,14 +32,6 @@ export function phaseOne() {
                 >
                     {CONTENT.phaseOne.subtitle}
                 </motion.h2>
-                {/*<motion.p*/}
-                {/*    initial={{ opacity: 0 }}*/}
-                {/*    animate={{ opacity: 1 }}*/}
-                {/*    transition={{ duration: 1, delay: 0.5 }}*/}
-                {/*    className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto leading-relaxed"*/}
-                {/*>*/}
-                {/*    {CONTENT.pregame.meaning}*/}
-                {/*</motion.p>*/}
             </motion.div>
 
             <motion.div
