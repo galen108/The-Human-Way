@@ -57,14 +57,14 @@ export function Hero() {
           >
               {CONTENT.hero.pregame}
           </motion.p>
-          <motion.h2
+          <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
               className="text-zinc-500 font-medium tracking-[0.2em] uppercase mb-4"
           >
               {CONTENT.hero.event}
-          </motion.h2>
+          </motion.p>
           <motion.p
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
@@ -73,14 +73,14 @@ export function Hero() {
           >
               {CONTENT.hero.meaning}
           </motion.p>
-          <motion.h2
+          <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
           >
               {CONTENT.hero.phaseOne}
-          </motion.h2>
+          </motion.p>
           <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
