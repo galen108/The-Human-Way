@@ -3,7 +3,7 @@ export const CONTENT = {
         title: "The Third Temple",
         subtitle: "and the Human Way",
         description: "In a world marked by endless conflict, political division, and social injustice, the question of the Temple in Jerusalem may seem purely historical or symbolic. Yet the turmoil surrounding human society can be read as a modern echo of the ancient prophetic warnings.",
-        thesis: "This unified timeline maps the Historicist interpretation of the Four Horsemen onto the two physical temple destructions. It functions as a roadmap for an Internal Third Temple thesis: that the external \"House of God\" was removed to force a shift into the human heart, and Jesus (the Second White Horse) returns only when humanity ceases to \"sin in His name\."
+        thesis: "This unified timeline maps the Historicist interpretation of the Four Horsemen onto the two physical Temple destructions. It functions as a roadmap for an Internal Third Temple thesis: that the external \"House of God\" was removed to force a shift into the human heart, and Jesus (in His Second Coming) returns only when humanity ceases to sin in His name."
     },
     pregame: {
         title: "The Pre-Game: The First Destruction (586 BC)]",
