@@ -52,41 +52,41 @@ export function Hero() {
       </motion.div>
 
         <motion.div style={{ y: y1, opacity }} className="z-10 max-w-4xl">
-            <motion.h1
+            <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
                 className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
             >
                 {CONTENT.pregame.title}
-            </motion.h1>
-            <motion.p
+            </motion.p>
+            <motion.h2
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8 }}
                 className="text-zinc-500 font-medium tracking-[0.2em] uppercase mb-4"
             >
                 {CONTENT.pregame.subtitle}
-            </motion.p>
-            <motion.h2
+            </motion.h2>
+            <motion.p
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1, delay: 0.5 }}
                 className="text-lg md:text-xl text-zinc-400 max-w-2xl mx-auto leading-relaxed"
             >
                 {CONTENT.pregame.meaning}
-            </motion.h2>
+            </motion.p>
         </motion.div>
 
         <motion.div style={{ y: y1, opacity }} className="z-10 max-w-4xl">
-            <motion.h1
+            <motion.h2
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
                 className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
             >
                 {CONTENT.phaseOne.title}
-            </motion.h1>
+            </motion.h2>
             <motion.p
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
