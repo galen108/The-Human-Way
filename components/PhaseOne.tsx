@@ -24,14 +24,14 @@ export function PhaseOne() {
                 >
                     {CONTENT.phaseOne.title}
                 </motion.h2>
-                <motion.h3
+                <motion.p
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8, delay: 0.2 }}
                     className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
                 >
                     {CONTENT.phaseOne.subtitle}
-                </motion.h3>
+                </motion.p>
             </motion.div>
 
             <motion.div
