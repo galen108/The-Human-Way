@@ -55,7 +55,7 @@ export function Hero() {
               transition={{ duration: 0.8 }}
               className="text-zinc-500 font-medium tracking-[0.2em] uppercase mb-4"
           >
-              {CONTENT.hero.clearing}
+              {CONTENT.hero.event}
           </motion.p>
           <motion.p
               initial={{ opacity: 0, y: 20 }}
