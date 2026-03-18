@@ -16,22 +16,22 @@ export function PhaseOne() {
                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-white/5 rounded-full blur-[120px]" />
             </div>
             <motion.div style={{ y: y1, opacity }} className="z-10 max-w-4xl">
-                <motion.h1
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.8, delay: 0.2 }}
-                    className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
-                >
-                    {CONTENT.phaseOne.title}
-                </motion.h1>
                 <motion.h2
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.8, delay: 0.2 }}
                     className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
                 >
-                    {CONTENT.phaseOne.subtitle}
+                    {CONTENT.phaseOne.title}
                 </motion.h2>
+                <motion.h3
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.8, delay: 0.2 }}
+                    className="text-6xl md:text-8xl font-bold mb-8 gradient-text"
+                >
+                    {CONTENT.phaseOne.subtitle}
+                </motion.h3>
             </motion.div>
 
             <motion.div
