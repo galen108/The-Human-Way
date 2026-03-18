@@ -7,7 +7,7 @@ export const CONTENT = {
         pregame: "The Pre-Game: The First Destruction (586 BC)",
         event: "The Event: The Babylonian destruction of Solomon’s Temple.",
         meaning: "Internal Meaning: The end of God dwelling in a national stone building. It forced the first internalization of faith during the Exile.",
-        phaseOne: "The Four Horsemen (The \"Clearing\" of the Second Temple)",
+        clearing: "The Four Horsemen (The \"Clearing\" of the Second Temple)",
         forces: "In this phase, the horsemen represent the historical forces that dismantled the Second Temple (70 AD) and the subsequent \"Sins of Empire\" that prevent the Third Temple from being built today."
     },
     horsemen: [

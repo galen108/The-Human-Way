@@ -4,7 +4,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { CONTENT } from "@/data/content";
 import { ChevronDown } from "lucide-react";
 
-export function PhaseOne() {
+export function Clearing() {
     const { scrollY } = useScroll();
     const y1 = useTransform(scrollY, [0, 500], [0, 200]);
     const opacity = useTransform(scrollY, [0, 300], [1, 0]);

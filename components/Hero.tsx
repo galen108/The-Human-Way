@@ -79,7 +79,7 @@ export function Hero() {
               transition={{ duration: 0.8 }}
               className="text-zinc-500 font-medium tracking-[0.2em] uppercase mb-4"
           >
-              {CONTENT.hero.phaseOne}
+              {CONTENT.hero.clearing}
           </motion.p>
           <motion.h2
               initial={{ opacity: 0 }}
