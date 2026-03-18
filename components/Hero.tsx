@@ -49,14 +49,6 @@ export function Hero() {
           >
               {CONTENT.hero.thesis}
           </motion.h2>
-          <motion.p
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8 }}
-              className="text-zinc-500 font-medium tracking-[0.2em] uppercase mb-4"
-          >
-              {CONTENT.hero.pregame}
-          </motion.p>
           <motion.h2
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
