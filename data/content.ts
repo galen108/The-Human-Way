@@ -51,7 +51,7 @@ export const CONTENT = {
       title: "The Internal Temple",
       content: [
         "The Third Temple is not a physical structure. It is not stone or mortar, but a state of human ethical and spiritual realization. The Temple will arise only when—after the Second Coming of Jesus Christ, He brings a total end to war, sickness, hunger, and injustice.",
-          "A world that wages war in Christ’s name, enforces cruelty, and rejects the outsider is spiritually rejecting Him. His (God's) teachings—showing mercy, practicing justice, and including the marginalized are fulfilled with His Return."
+          "A world that wages war in Christ’s name, enforces cruelty, and rejects the outsider is spiritually rejecting Him. Christ's teachings — showing mercy, practicing justice, and including the marginalized — are fulfilled with His Return."
       ]
     },
     {
@@ -59,7 +59,7 @@ export const CONTENT = {
       title: "The Human One",
       content: [
         "Central to this vision is the understanding of Christ as “the Human One,” or the Son of Man. Fully human, fully present in the human condition, He models justice, mercy, nonviolence, and dignity.",
-          "He is the Son of GOD, Lord and Savior, and the Teacher—completely sinless and deeply engaged in promoting human dignity, justice, and love. The Third Temple is the reconstruction of society through the embodiment of His Way."
+          "He is the Son of GOD, Lord and Savior, and the Teacher — completely sinless and deeply engaged in promoting human dignity, justice, and love. The Third Temple is the reconstruction of society through the embodiment of His Way."
       ]
     },
     {
@@ -67,7 +67,7 @@ export const CONTENT = {
       title: "Apocalypse as Disclosure",
       content: [
         "In conclusion, the apocalypse is not simply destruction; it is disclosure. Wielding the flaming sword of truth, Jesus, the King of Kings, cuts through fear, hatred, and deceit. His return is realized not just in a dramatic celestial spectacle but also in a world fully reconciled and fully living as One in Christ Jesus.",
-          "The Third Temple is not brick and stone, but the human conscience awakened to Him—the Way, the Truth, and the Life."
+          "The Third Temple is not brick and stone, but the human conscience awakened to Him — the Way, the Truth, and the Life."
       ]
     }
   ]
