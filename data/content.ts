@@ -50,7 +50,7 @@ export const CONTENT = {
       id: "temple",
       title: "The Internal Temple",
       content: [
-        "The Third Temple is not a physical structure. It is not stone or mortar, but a state of human ethical and spiritual realization. The Temple will arise only when—after the Second Coming of Jesus Christ, He brings a total end to war, sickness, hunger, and injustice.",
+        "The Third Temple is not a physical structure. It is not stone or mortar, but a state of human ethical and spiritual realization. The Temple will arise only when, after the Second Coming, Christ brings a total end to war, sickness, hunger, and injustice.",
           "A world that wages war in Christ’s name, enforces cruelty, and rejects the outsider is spiritually rejecting Him. Christ's teachings — showing mercy, practicing justice, and including the marginalized — are fulfilled with His Return."
       ]
     },
