@@ -17,7 +17,7 @@ export function Footer() {
             Final Disclosure
           </p>
           <h2 className="text-3xl md:text-4xl font-semibold text-zinc-100 italic">
-            "The Third Temple is a human community to be rebuilt in spirit."
+            "The Third Temple is a human community rebuilt in Spirit."
           </h2>
         </motion.div>
 
